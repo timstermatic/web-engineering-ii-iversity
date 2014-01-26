@@ -199,7 +199,12 @@ textarea[contenteditable] {
 .clearfix {
     *zoom: 1;
 }
-
+.video {
+	
+	width: 360px;
+	margin: auto;
+	
+}
 /* ==========================================================================
    EXAMPLE Media Queries for Responsive Design.
    Theses examples override the primary ('mobile first') styles.
